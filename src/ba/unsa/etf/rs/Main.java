@@ -13,5 +13,6 @@ public class Main {
         c = input.nextInt();
         int zbir=a+b+c;
         System.out.println("Zbir je " + zbir);
+        System.out.println("Provjera!");
     }
 }
